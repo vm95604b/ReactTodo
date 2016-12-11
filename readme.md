@@ -1,1 +1,1 @@
-Timer React App
+Todo React App
