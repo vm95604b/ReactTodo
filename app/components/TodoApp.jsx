@@ -1,8 +1,9 @@
 var React = require('react');
+var uuid = require('uuid');
+
 var TodoList = require('TodoList');
 var AddTodo = require('AddTodo');
 var TodoSearch = require('TodoSearch');
-var uuid = require('uuid');
 
 var TodoApp = React.createClass({
 

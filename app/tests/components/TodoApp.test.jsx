@@ -21,7 +21,7 @@ describe('TodoApp', () => {
 
     expect(todoApp.state.todos[0].text).toBe(todoText);
   });
-
+  // Review this test...
   it('Should toggle completed value when handleToggle called', () => {
     var todoData = {
       id: 11,
